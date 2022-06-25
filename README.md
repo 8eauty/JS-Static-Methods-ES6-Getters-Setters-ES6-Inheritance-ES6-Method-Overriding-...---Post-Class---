@@ -1,1 +1,1 @@
-it is  a example of classical inheritance
+it is  an example of classical inheritance
