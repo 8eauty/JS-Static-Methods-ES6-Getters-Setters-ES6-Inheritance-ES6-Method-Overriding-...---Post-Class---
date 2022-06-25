@@ -2,7 +2,7 @@ class shape{
     constructor(color){
         if(color===undefined || color===null)
         {
-            this.color = 'purple'
+            this.color = "green"
         }
         else{
             this.color = color
