@@ -1,21 +1,18 @@
-// declare class
-class Shape{
-
+class shape{
     constructor(color){
-        if(color===undefined || color===null){
+        if(color===undefined || color===null)
+        {
             this.color = 'purple'
-        }else{
+        }
+        else{
             this.color = color
         }
     }
-    drawShape() {
-        
+    drawShape(){
+
     }
     calculateArea(){
 
     }
-
 }
-
-// export class using module.exports
 module.exports = Shape
